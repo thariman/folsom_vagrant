@@ -1,0 +1,2 @@
+folsom_vagrant
+==============
